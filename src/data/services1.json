@@ -1,0 +1,19 @@
+  {
+  "image": "/assets/img/logo.png",
+  "services": [
+    {
+      "id": "01",
+      "image": "/assets/img/slid/JADHAV'S_.jpg",
+      "alternate": "Architecture Image",
+      "title": "Architecture",
+      "content": "Architectural services are our core activity and we are passionate about good design and seeking solutions that add value to our clients. Every project we work on delivers a distinctive, high quality architectural response, which is underpinned by a clear design philosophy. Our portfolio embraces all aspects of residential and mixed use development across both public and private sectors."
+    },
+    {
+      "id": "02",
+      "image": "/assets/img/slid/2_URADES.jpg",
+      "alternate": "Interior Design Image",
+      "title": "Interior Design",
+      "content": "Interior design is an integral part of our design services. Our interior designs create vibrant and meaningful spaces for people to enjoy, work and relax. Our approach is based on understanding that interior design holistically in terms of interior architecture & environment it have a profound impact on the well-being, and the operations and success of an organization’s."
+    }
+  ]
+}

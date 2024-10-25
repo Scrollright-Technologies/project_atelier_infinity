@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": { "first": "Atelier Infinity", "second": "We Create Amazing Designs" },
+    "content": {
+      "first": "Right design and right ideas matter a lot of in interior design",
+      "second": "business. a style that makes a statement."
+    },
+    "image": "/assets/img/slid/n/hp1-slider-1.jpg"
+  },
+  {
+    "id": 2,
+    "title": { "first": "Atelier Infinity", "second": "Classic and Modern" },
+    "content": {
+      "first": "Right design and right ideas matter a lot of in interior design",
+      "second": "business. a style that makes a statement."
+    },
+    "image": "/assets/img/slid/n/hp1-slider-2.jpg"
+  }
+]

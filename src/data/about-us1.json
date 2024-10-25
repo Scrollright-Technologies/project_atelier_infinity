@@ -1,0 +1,31 @@
+{
+  "title": {
+    "first": "Our Story"
+  },
+  "image": "/assets/img/logo.png",
+  "content1": "Atelier Infinity is a studio delivering ambitious designs that combine functionality and sustainability with elegance.",
+  "content2": "We design extraordinary spaces with distinctive personality. Every house we design is a unique and deeply personal translation of your vision, keeping the aesthetic, cost & technical constraints in mind. Years of experience we have been able tackle every building challenge, never losing sight of time frames and budgets. We offer all our clients the design solutions with deep social and cultural understanding of the communities we design for.",
+  "content3": "An interdisciplinary practice, we offer a full range of design, and building services including landscape design and development consultancy.",
+  "content4": "Experience to draw on, we have established an exemplary track record in the design and delivery of homes and places of varying scale, complexity and diversity.",
+  "exp": {
+    "nmb": 17,
+    "since": 1999
+  },
+  "numbers": [
+    {
+      "id": 1,
+      "number": "300+",
+      "name": "PROJECTS COMPLETED"
+    },
+    {
+      "id": 2,
+      "number": "255+",
+      "name": "SATISFIED CLIENTS"
+    },
+    {
+      "id": 3,
+      "number": "50+",
+      "name": "RENOVATIONS"
+    }
+  ]
+}
